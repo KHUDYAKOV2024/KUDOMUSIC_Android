@@ -1,0 +1,6 @@
+{
+  "name": "KUDOMUSIC",
+  "description": "KUDOMUSIC — музыкальный плеер в стиле Spotify с авторизацией по ссылке на Hub, локальным аудио, плейлистами и эквалайзером.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
